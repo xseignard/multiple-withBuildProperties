@@ -12,10 +12,3 @@
 -keep class com.facebook.react.turbomodule.** { *; }
 
 # Add any project specific keep options here:
-
-# @generated begin expo-build-properties - expo prebuild (DO NOT MODIFY) sync-9ebdb71a9e7e3ac3eca37180097d604728c11787
-
-# custom rule to keep our code
--keep class com.mycompany.** { *; }
-
-# @generated end expo-build-properties
